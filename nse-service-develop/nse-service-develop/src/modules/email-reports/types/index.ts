@@ -1,0 +1,10 @@
+export enum EmailStatusTypes {
+  SENT = 'SENT',
+  QUEUED = 'QUEUED',
+  DEFERRED = 'DEFERRED',
+  DELIVERED = 'DELIVERED',
+  BOUNCE = 'BOUNCE',
+  FAILED = 'FAILED',
+  DROPPED = 'DROPPED',
+  SPAM = 'SPAM',
+}

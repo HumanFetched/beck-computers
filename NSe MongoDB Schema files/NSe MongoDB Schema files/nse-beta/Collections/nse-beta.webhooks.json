@@ -1,0 +1,379 @@
+[{
+  "_id": "7R6M-g01a5NH",
+  "name": "socketlab",
+  "domain": "sandbox.socketlabs.dev",
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-11-04T13:23:52.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:46:37.682Z"
+  },
+  "__v": 0,
+  "accountId": "",
+  "description": "",
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  }
+},
+{
+  "_id": "8KA-egtzkrW6",
+  "name": "sendinblue",
+  "domain": "gmail.com",
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T14:43:24.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:46:24.725Z"
+  },
+  "__v": 0,
+  "accountId": "",
+  "description": "",
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  }
+},
+{
+  "_id": "5fAWxKxUQc-R",
+  "name": "mailgun",
+  "domain": "sandbox272d9473b7db4eb88c923824f923961e.mailgun.org",
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T15:05:19.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:46:45.543Z"
+  },
+  "__v": 0,
+  "accountId": "",
+  "description": "",
+  "provider": {
+    "$oid": "639b09b95b20f31294408e53"
+  },
+  "isActive": true
+},
+{
+  "_id": "TNJnKyd8IhFq",
+  "name": "NSE Mandrill",
+  "accountId": "123",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2023-03-14T15:05:49.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T15:30:55.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "syd4LLpQB9iT",
+  "name": "as",
+  "accountId": "sa",
+  "description": "d",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2bfbd0226ad4cf741df"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": false
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2023-03-15T11:23:09.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-31T15:24:14.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "Ny1e0xe4gTwa",
+  "name": "MD-smtp-account",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-21T14:57:16.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T17:45:25.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "02hTOS2YUYts",
+  "name": "SL-smtp-account",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-21T15:01:38.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T17:45:36.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "I5T2rY_bhmZK",
+  "name": "Beck SocketLabs",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "createdAt": {
+    "$date": "2023-03-24T21:37:11.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T21:49:18.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "qPEsOeK44jzn",
+  "name": "Sendgrid webhook",
+  "accountId": "Test1",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T15:06:03.604Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:11:46.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "WuvWIg7N1RtI",
+  "name": "Mandrill webhook",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T16:08:20.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T16:11:36.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "TaLk4JIhqUIY",
+  "name": "NSe Mandrill",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T16:53:41.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T15:10:28.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "WX2z3sg4ZPPr",
+  "name": "sendgrid",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2023-04-04T15:30:01.247Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T15:36:14.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "_Z9X6zSTQgQE",
+  "name": "SIB-smtp-account",
+  "accountId": "",
+  "description": "",
+  "isActive": true,
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "configurations": {
+    "isDelivered": true,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-04-05T14:53:33.523Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T17:45:43.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "ZEqFNC43Ckh9",
+  "name": "Beck Mandrill",
+  "accountId": "",
+  "description": "Beck's Main Mandrill Account.",
+  "isActive": true,
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "configurations": {
+    "isDelivered": false,
+    "isBounced": true,
+    "isDropped": true,
+    "isFailed": true,
+    "isDeferred": true
+  },
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T19:27:02.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T19:30:51.776Z"
+  },
+  "__v": 0
+}]

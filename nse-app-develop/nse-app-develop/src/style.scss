@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slim-scroll::-webkit-scrollbar {
+    width: 5px;
+    height: 7px;
+}
+.slim-scroll::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(196, 31, 102, 0.15);
+}
+.slim-scroll::-webkit-scrollbar-thumb {
+    background: linear-gradient(301.59deg, #059669 -24.61%, #059669 129.26%);
+    border-radius: 10px;
+}

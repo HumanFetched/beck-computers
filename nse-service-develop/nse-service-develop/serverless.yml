@@ -1,0 +1,30 @@
+service:
+ name: nse-service
+
+plugins:
+ - serverless-plugin-typescript
+ - serverless-plugin-optimize
+ - serverless-offline
+ - serverless-dotenv-plugin
+
+provider:
+ name: aws
+ runtime: nodejs12.x
+ profile: ${opt:profile, 'bruisend'}
+ region: us-east-1
+ environment:
+  COGNITO_USER_POOL_ID: ${env:COGNITO_USER_POOL_ID}
+  COGNITO_CLIENT_ID: ${env:COGNITO_CLIENT_ID}
+  AWS_REGION: ${env:AWS_REGION}
+  MONGODB_URL: ${env:MONGODB_URL}
+
+functions:
+  main:
+    handler: src/lambda.handler
+    events:
+      - http:
+         method: ANY
+         path: /
+      - http: 
+         method: ANY
+         path: '{proxy+}'

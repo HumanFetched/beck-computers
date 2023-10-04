@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "635fef98bd0226ad4cf7414b"
+  },
+  "name": "SendGrid Group ",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "635fef42bd0226ad4cf7412d"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "639c47715ca55993e72abd74"
+    },
+    {
+      "$oid": "635ff2c2bd0226ad4cf741e3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-10-31T15:54:00.388Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T10:26:06.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff27bbd0226ad4cf741d4"
+  },
+  "name": "Hello",
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "domain": [
+    {
+      "$oid": "640b35b6a08ba194989a00e5"
+    }
+  ],
+  "providers": [],
+  "createdAt": {
+    "$date": "2022-10-31T16:06:19.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:39:36.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff31cbd0226ad4cf74269"
+  },
+  "name": "Slabs",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "635ff301bd0226ad4cf7424a"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "635ff470bd0226ad4cf74295"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-10-31T16:09:00.037Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T06:22:00.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b2c15b59e6818f2c7a8fa"
+  },
+  "name": "Combine group",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "639b374bb59e6818f2c7ad30"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "639b2cd9b59e6818f2c7a908"
+    },
+    {
+      "$oid": "639b2eaeb59e6818f2c7aa1d"
+    },
+    {
+      "$oid": "639b3496b59e6818f2c7ac3f"
+    },
+    {
+      "$oid": "639b3210b59e6818f2c7ab62"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-12-15T14:15:49.889Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:12:57.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c51165ca55993e72abe13"
+  },
+  "name": "mailgun ",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "639c50c95ca55993e72abdee"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "639c512c5ca55993e72abe21"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-12-16T11:05:58.277Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:07:32.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c52525ca55993e72abedc"
+  },
+  "name": "SIB",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "639b3240b59e6818f2c7ab87"
+    },
+    {
+      "$oid": "641096cd6fa29c3b0d17d0bb"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "639c526b5ca55993e72abeea"
+    },
+    {
+      "$oid": "639c52905ca55993e72abf01"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-12-16T11:11:14.079Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T15:46:34.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108c336fa29c3b0d17ccf7"
+  },
+  "name": "NSE mandrill account",
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": [
+    {
+      "$oid": "64108c1d6fa29c3b0d17ccd9"
+    },
+    {
+      "$oid": "6419c4d87b56bb4cbd51332e"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "64108caf6fa29c3b0d17cd05"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-14T15:01:07.980Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-21T14:53:13.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b9667b56bb4cbd51302f"
+  },
+  "name": "SL,SB and MD",
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "domain": [
+    {
+      "$oid": "6419b9c37b56bb4cbd5130b4"
+    },
+    {
+      "$oid": "6419c15b7b56bb4cbd51324f"
+    },
+    {
+      "$oid": "642c42f4f6a38afac4f29b95"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "6419b9897b56bb4cbd51303b"
+    },
+    {
+      "$oid": "642c4278f6a38afac4f29b15"
+    },
+    {
+      "$oid": "6419b99f7b56bb4cbd51304c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-21T14:04:22.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:42:49.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641c75cb7b56bb4cbd513908"
+  },
+  "name": "test",
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "domain": [],
+  "providers": [],
+  "createdAt": {
+    "$date": "2023-03-23T15:52:43.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-23T15:52:43.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425a2d27b56bb4cbd51414d"
+  },
+  "name": "Nxwv 1",
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "domain": [
+    {
+      "$oid": "6425a3617b56bb4cbd51417d"
+    },
+    {
+      "$oid": "6425aa0b7b56bb4cbd51426f"
+    }
+  ],
+  "providers": [
+    {
+      "$oid": "6425a34b7b56bb4cbd51416d"
+    },
+    {
+      "$oid": "6425a4327b56bb4cbd5141df"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T14:55:14.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:44:30.157Z"
+  },
+  "__v": 0
+}]

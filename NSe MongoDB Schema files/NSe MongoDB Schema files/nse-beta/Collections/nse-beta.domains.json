@@ -1,0 +1,458 @@
+[{
+  "_id": {
+    "$oid": "635fef42bd0226ad4cf7412d"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": "nxwv.io",
+  "key": "nxwv.io",
+  "value": "nse-site-verification-4mh6lzOfJbaUPjDYaGp3I9xaEytbfL",
+  "type": "TXT",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2022-10-31T15:52:34.968Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T15:52:34.968Z"
+  },
+  "__v": 0,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "635ff301bd0226ad4cf7424a"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": "sandbox.socketlabs.dev",
+  "key": "sandbox.socketlabs.dev",
+  "value": "nse-site-verification-NrElbXZULAO99WBiaWPc5yVAn4j8Ll",
+  "type": "TXT",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2022-10-31T16:08:33.825Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:08:33.825Z"
+  },
+  "__v": 0,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63766671c3b95a9ad9e98650"
+  },
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "domain": "beckcomputers.com",
+  "key": "beckcomputers.com",
+  "value": "nse-site-verification-zYDrkeZNvNVWgDDQjr5KrgKqGE3bKc",
+  "type": "TXT",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2022-11-17T16:50:57.133Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-21T16:04:53.172Z"
+  },
+  "__v": 0,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "639b3240b59e6818f2c7ab87"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": "gmail.com",
+  "key": "gmail.com",
+  "value": "nse-site-verification-mMsfnJAF13aRmOPX0-y4jWEl8ZGAks",
+  "type": "TXT",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2022-12-15T14:42:08.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T17:11:32.086Z"
+  },
+  "__v": 0,
+  "isActive": true,
+  "authentication": [
+    {
+      "provider": "sendinblue",
+      "records": {
+        "DMarc": true,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    },
+    {
+      "provider": "sendinblue",
+      "records": {
+        "DMarc": true,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "639c50c95ca55993e72abdee"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": "sandbox272d9473b7db4eb88c923824f923961e.mailgun.org",
+  "key": "sandbox272d9473b7db4eb88c923824f923961e.mailgun.org",
+  "value": "nse-site-verification-UHrTQmY5r8xkdVWyK8jOwPICZbdMc6",
+  "type": "TXT",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2022-12-16T11:04:41.079Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:54:57.238Z"
+  },
+  "__v": 0,
+  "isActive": true,
+  "authentication": [
+    {
+      "provider": "mailgun",
+      "records": {
+        "DMarc": false,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "640b35b6a08ba194989a00e5"
+  },
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "domain": "nexweave.com",
+  "key": "nexweave.com",
+  "value": "nse-site-verification-lM61RXZvenVaZ-YJyEW7qPyrIIhrEo",
+  "type": "TXT",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2023-03-10T13:50:46.181Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:39:49.677Z"
+  },
+  "__v": 0,
+  "isActive": true,
+  "comments": ""
+},
+{
+  "_id": {
+    "$oid": "641472d2d94f3cf9d2f5032c"
+  },
+  "user": {
+    "$oid": "6413b22ad94f3cf9d2f502a0"
+  },
+  "domain": "beckcomputers.com",
+  "isActive": false,
+  "comments": "Beck's domain\n\n",
+  "key": "beckcomputers.com",
+  "value": "nse-site-verification-J82zFt-8lyJD1t0g7-FTbYUIc-rnAQ",
+  "type": "TXT",
+  "isVerified": false,
+  "authentication": [],
+  "createdAt": {
+    "$date": "2023-03-17T14:01:54.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T14:04:54.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b9c37b56bb4cbd5130b4"
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "domain": "nonstopemail.com",
+  "isActive": true,
+  "comments": "",
+  "key": "nonstopemail.com",
+  "value": "nse-site-verification-CQeNsASS55OFMcPgvZBKRkU0w2OVpx",
+  "type": "TXT",
+  "isVerified": true,
+  "authentication": [
+    {
+      "provider": "socketlabs",
+      "records": {
+        "DMarc": true,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": true
+      }
+    },
+    {
+      "provider": "sendinblue",
+      "records": {
+        "DMarc": true,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    },
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-21T14:05:55.647Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T15:57:15.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419c15b7b56bb4cbd51324f"
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "domain": "sandbox.socketlabs.dev",
+  "isActive": true,
+  "comments": "",
+  "key": "sandbox.socketlabs.dev",
+  "value": "nse-site-verification-q0HJRWOXA1dgfmVqYvjQSjMaTjabRT",
+  "type": "TXT",
+  "isVerified": true,
+  "authentication": [
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": false,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    },
+    {
+      "provider": "socketlabs",
+      "records": {
+        "DMarc": false,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-21T14:38:19.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-21T15:48:41.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419c4d87b56bb4cbd51332e"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "domain": "nonstopemail.com",
+  "isActive": true,
+  "comments": "",
+  "key": "nonstopemail.com",
+  "value": "nse-site-verification-CyxLHsJoGlHIY9kvkpt54U1KTQ1S1e",
+  "type": "TXT",
+  "isVerified": true,
+  "authentication": [
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-21T14:53:12.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T14:42:59.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425a3617b56bb4cbd51417d"
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "domain": "nxwv.io",
+  "isActive": true,
+  "comments": "",
+  "key": "nxwv.io",
+  "value": "nse-site-verification-qBqDsOxB9A7Y3S8iTXPAqipH8nSSSr",
+  "type": "TXT",
+  "isVerified": false,
+  "authentication": [
+    {
+      "provider": "sendgrid",
+      "records": {
+        "DMarc": false,
+        "SPF": true,
+        "DKIM": true,
+        "MX": true,
+        "CNAME": false
+      }
+    },
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": false,
+        "SPF": true,
+        "DKIM": true,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T14:57:37.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T16:17:08.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425aa0b7b56bb4cbd51426f"
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "domain": "nonstopemail.com",
+  "isActive": true,
+  "comments": "",
+  "key": "nonstopemail.com",
+  "value": "nse-site-verification-44OCc8Z77RJiinohi2f3P5K3XNrJWX",
+  "type": "TXT",
+  "isVerified": false,
+  "authentication": [
+    {
+      "provider": "sendgrid",
+      "records": {
+        "DMarc": true,
+        "SPF": false,
+        "DKIM": false,
+        "MX": false,
+        "CNAME": false
+      }
+    },
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": false,
+        "CNAME": false
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T15:26:03.713Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:27:23.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642c42f4f6a38afac4f29b95"
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "domain": "gmail.com",
+  "isActive": true,
+  "comments": "",
+  "key": "gmail.com",
+  "value": "nse-site-verification-LQKPNqIN5r5Rr1FxzoqFQ3m7NyXo0o",
+  "type": "TXT",
+  "isVerified": true,
+  "authentication": [
+    {
+      "provider": "socketlabs",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": true,
+        "CNAME": true
+      }
+    },
+    {
+      "provider": "sendinblue",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": true,
+        "CNAME": true
+      }
+    },
+    {
+      "provider": "mandrill",
+      "records": {
+        "DMarc": true,
+        "SPF": true,
+        "DKIM": true,
+        "MX": true,
+        "CNAME": true
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-04T15:32:04.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T14:08:35.039Z"
+  },
+  "__v": 0
+}]

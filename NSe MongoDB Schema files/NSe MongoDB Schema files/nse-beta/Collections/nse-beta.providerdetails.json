@@ -1,0 +1,510 @@
+[{
+  "_id": {
+    "$oid": "635ff2c2bd0226ad4cf741e3"
+  },
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "SG AR expired",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 500,
+    "dailyMailLimit": 500
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:07:30.906Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-04T10:25:22.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff470bd0226ad4cf74295"
+  },
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "connectionType": "API",
+  "isActive": false,
+  "apiDetails": {
+    "displayName": "Slabs Suraj",
+    "serverId": "44744",
+    "apiKey": "c3AEf69PiSn8t4CFm5w7"
+  },
+  "configuration": {
+    "monthlyMailLimit": 50,
+    "dailyMailLimit": 40
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:14:40.744Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T14:22:53.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b2cd9b59e6818f2c7a908"
+  },
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "Socketlab",
+    "apiKey": "c3AEf69PiSn8t4CFm5w7",
+    "serverId": "44744"
+  },
+  "configuration": {
+    "monthlyMailLimit": 1,
+    "dailyMailLimit": 1
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T14:19:05.691Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T15:09:17.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b2eaeb59e6818f2c7aa1d"
+  },
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "connectionType": "API",
+  "isActive": false,
+  "apiDetails": {
+    "displayName": "sendgrid AR",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T14:26:54.819Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T15:09:06.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b3210b59e6818f2c7ab62"
+  },
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "SIB SK",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T14:41:20.615Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T15:11:32.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b3496b59e6818f2c7ac3f"
+  },
+  "provider": {
+    "$oid": "639b09b95b20f31294408e53"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "MG AR ",
+    "domainName": "sandbox272d9473b7db4eb88c923824f923961e.mailgun.org\t",
+    "apiKey": "7c447982fa166cc5a7c72f84963f03ff-f2340574-aaec1565"
+  },
+  "configuration": {
+    "monthlyMailLimit": 1,
+    "dailyMailLimit": 1
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-15T14:52:06.066Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T15:09:23.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c47715ca55993e72abd74"
+  },
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "apiKey": "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",
+    "displayName": "SG AR"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-16T10:24:49.010Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T10:24:52.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c512c5ca55993e72abe21"
+  },
+  "provider": {
+    "$oid": "639b09b95b20f31294408e53"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "MG AR",
+    "domainName": "sandbox272d9473b7db4eb88c923824f923961e.mailgun.org",
+    "apiKey": "7c447982fa166cc5a7c72f84963f03ff-f2340574-aaec1565"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-16T11:06:20.155Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:06:32.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c526b5ca55993e72abeea"
+  },
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "SIB SK",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-16T11:11:39.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:11:45.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639c52905ca55993e72abf01"
+  },
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "apiKey": "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",
+    "displayName": "SIB AR"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-12-16T11:12:16.070Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:12:18.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108caf6fa29c3b0d17cd05"
+  },
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "apiKey": "md-iDx60umLxLnpZW1plkyYnA",
+    "displayName": "NSE mandrill  "
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2023-03-14T15:03:11.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T15:03:14.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6410903b6fa29c3b0d17ce2c"
+  },
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "connectionType": "API",
+  "isActive": false,
+  "apiDetails": {
+    "displayName": "Mandrill  config",
+    "apiKey": "md-iDx60umLxLnpZW1plkyYnA"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-14T15:18:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T18:45:41.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6410b8206fa29c3b0d17d96e"
+  },
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "Socketlab provider",
+    "apiKey": "c3AEf69PiSn8t4CFm5w7",
+    "serverId": "44744"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-14T18:08:32.616Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T18:11:47.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b9897b56bb4cbd51303b"
+  },
+  "provider": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "Socketlab Provider",
+    "apiKey": "c3AEf69PiSn8t4CFm5w7",
+    "serverId": "44744"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-21T14:04:57.310Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:42:44.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b99f7b56bb4cbd51304c"
+  },
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "Mandrill Provider",
+    "apiKey": "md-iDx60umLxLnpZW1plkyYnA"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-21T14:05:19.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:42:47.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425a34b7b56bb4cbd51416d"
+  },
+  "provider": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "sendgrid",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T14:57:15.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:01:37.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425a4327b56bb4cbd5141df"
+  },
+  "provider": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "mandril",
+    "apiKey": "md-iDx60umLxLnpZW1plkyYnA"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T15:01:06.817Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:44:24.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642c4278f6a38afac4f29b15"
+  },
+  "provider": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "connectionType": "API",
+  "isActive": true,
+  "apiDetails": {
+    "displayName": "Sendinblue",
+    "apiKey": "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"
+  },
+  "configuration": {
+    "monthlyMailLimit": 100,
+    "dailyMailLimit": 100
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-04-04T15:30:00.191Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:42:47.987Z"
+  },
+  "__v": 0
+}]

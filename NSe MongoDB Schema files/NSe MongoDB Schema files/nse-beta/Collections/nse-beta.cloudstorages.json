@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "63651e0de58bae3cf3e30b71"
+  },
+  "user": {
+    "$oid": "6364ea46bd0226ad4cf74515"
+  },
+  "name": "GOOGLE_DRIVE",
+  "data": {
+    "refreshToken": "1//0gQeZ601AwocBCgYIARAAGBASNwF-L9Ir64EduaanTdBoNOhYLliHQrFToL6jvqCWm-RcWa5Bu0fP5A5g9pVkM2OVTQORfIR-2JM"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2022-11-04T14:13:33.030Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-04T14:13:33.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b5747b56bb4cbd512e47"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "cloudStorageName": "GOOGLE_DRIVE",
+  "name": "g drive",
+  "email": "mallikarjun@homeclosingservices.net",
+  "data": {
+    "refreshToken": "1//0g7CWnU1Pu1K3CgYIARAAGBASNwF-L9IrJ2z4au6k1bhRm0JFGTpDwSFFLU4e84Sd98m-Xi8akexLGRKeuj3v-CVk-Ohq6oxSMLU"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-03-21T13:47:32.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-21T13:57:33.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419b7207b56bb4cbd512f32"
+  },
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "cloudStorageName": "DROPBOX",
+  "name": "drop b",
+  "email": "mallikarjun@homeclosingservices.net",
+  "data": {
+    "refreshToken": "jiJlqFwgikkAAAAAAAAAAYemp7BgdBeZJCgirIpRXMRMFKYDwrpJVabmVnQ5o3qB"
+  },
+  "isActive": false,
+  "createdAt": {
+    "$date": "2023-03-21T13:54:40.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-21T13:57:33.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6419d29d7b56bb4cbd513703"
+  },
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "cloudStorageName": "DROPBOX",
+  "name": "test",
+  "email": "surajkadam98.dev@gmail.com",
+  "data": {
+    "refreshToken": "0PVNVpYsyrAAAAAAAAAAAdDjLTTN_QXw3J0KSX9LiiSaubEFo9q5_BZN8ES6pqKy"
+  },
+  "isActive": false,
+  "createdAt": {
+    "$date": "2023-03-21T15:51:57.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-21T15:51:57.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442e56c3940d141b7b67e37"
+  },
+  "user": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "cloudStorageName": "DROPBOX",
+  "name": "Beck Dropbox",
+  "email": "admin@beckcomputers.com",
+  "data": {
+    "refreshToken": "X3trjqHxEnUAAAAAAAAAAWaThSJ9dhJQS5Ep3UJTevt7PeiQtS2B1ynP-Jc3sZnR"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-04-21T19:35:08.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T19:35:41.703Z"
+  },
+  "__v": 0
+}]

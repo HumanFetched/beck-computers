@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "Mallikarjun@nexweave.co",
+  "phone": "8088770004",
+  "dialCode": "+91",
+  "profileImage": "https://ui-avatars.com/api/?name=Mallikarjun&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "pramod@nexweave.co",
+  "phone": "9594262896",
+  "dialCode": "+91",
+  "profileImage": "https://ui-avatars.com/api/?name=pramod&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff179bd0226ad4cf74176"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "ashutosh@nexweave.com",
+  "phone": "9833057919",
+  "dialCode": "+91",
+  "profileImage": "https://ui-avatars.com/api/?name=ashutosh&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff49ebd0226ad4cf742af"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "admin@beckcomputers.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=admin&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6364ea46bd0226ad4cf74515"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "aryans.develop@gmail.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=aryans.develop&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63654c79e58bae3cf3e30cc6"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "ashutosh@indusved.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=ashutosh&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "surajkadam98.dev@gmail.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=surajkadam98.dev&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6413b22ad94f3cf9d2f502a0"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "praveen@beckcomputers.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=praveen&size=128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "firstName": "",
+  "lastName": "",
+  "email": "rushiraj@nexweave.com",
+  "phone": "",
+  "dialCode": "",
+  "profileImage": "https://ui-avatars.com/api/?name=rushiraj&size=128",
+  "__v": 0
+}]

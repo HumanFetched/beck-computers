@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "635ff2e8bd0226ad4cf7422f"
+  },
+  "name": "Demo",
+  "description": "",
+  "key": "CRWPMWB-RQ0M804-P0GR68E-5JCKSCV",
+  "isActive": true,
+  "user": {
+    "$oid": "635d2e00ab75a1da0e397f45"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:08:08.213Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:08:08.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108e3d6fa29c3b0d17ce0d"
+  },
+  "name": "test-beta",
+  "description": "",
+  "key": "VN4KD11-3ZV40Y0-H5R6K85-YXDNB15",
+  "isActive": true,
+  "user": {
+    "$oid": "64108e1a6fa29c3b0d17cde8"
+  },
+  "createdAt": {
+    "$date": "2023-03-14T15:09:49.951Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T15:09:49.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425aab77b56bb4cbd5142c4"
+  },
+  "name": "Key 1",
+  "description": "",
+  "key": "39RH2PA-D4XM8EQ-NCGHNC7-E4J4645",
+  "isActive": true,
+  "user": {
+    "$oid": "6425a20b7b56bb4cbd514102"
+  },
+  "createdAt": {
+    "$date": "2023-03-30T15:28:55.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T15:28:55.219Z"
+  },
+  "__v": 0
+}]

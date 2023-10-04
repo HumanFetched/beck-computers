@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "635ff26cbd0226ad4cf741ba"
+  },
+  "name": "Sendgrid",
+  "displayName": "Sendgrid",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API",
+    "SMTP"
+  ],
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:06:04.448Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:06:04.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff2bfbd0226ad4cf741df"
+  },
+  "name": "Mailslurp",
+  "displayName": "Mailslurp",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    },
+    {
+      "name": "Inbox ID",
+      "type": "text",
+      "key": "inboxId"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API",
+    "SMTP"
+  ],
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:07:27.123Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:07:27.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff2d8bd0226ad4cf74212"
+  },
+  "name": "Mandrill",
+  "displayName": "Mandrill",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API",
+    "SMTP"
+  ],
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:07:52.471Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:07:52.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635ff351bd0226ad4cf74279"
+  },
+  "name": "SocketLabs",
+  "displayName": "SocketLabs",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    },
+    {
+      "name": "Server ID",
+      "type": "text",
+      "key": "serverId"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API",
+    "SMTP"
+  ],
+  "user": {
+    "$oid": "635ff07cbd0226ad4cf74164"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T16:09:53.273Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T16:09:53.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b08cf5b20f31294408e52"
+  },
+  "name": "Sendinblue",
+  "displayName": "",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    },
+    {
+      "type": "CNAME",
+      "key": "s1._domainkey.[DOMAIN]"
+    },
+    {
+      "type": "CNAME",
+      "key": "s2._domainkey.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API",
+    "SMTP"
+  ],
+  "user": {
+    "$oid": "62bb1e1841574dfc8ce787ad"
+  },
+  "createdAt": {
+    "$date": "2022-07-28T10:15:23.742Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-28T10:15:23.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639b09b95b20f31294408e53"
+  },
+  "name": "Mailgun",
+  "displayName": "",
+  "records": [
+    {
+      "type": "CNAME",
+      "key": "em10.[DOMAIN]"
+    },
+    {
+      "type": "CNAME",
+      "key": "s1._domainkey.[DOMAIN]"
+    },
+    {
+      "type": "CNAME",
+      "key": "s2._domainkey.[DOMAIN]"
+    }
+  ],
+  "apiSchema": [
+    {
+      "name": "Display Name",
+      "type": "text",
+      "key": "displayName"
+    },
+    {
+      "name": "Domain Name",
+      "type": "text",
+      "key": "domainName"
+    },
+    {
+      "name": "API Key",
+      "type": "text",
+      "key": "apiKey"
+    }
+  ],
+  "smtpSchema": [],
+  "supports": [
+    "API"
+  ],
+  "user": {
+    "$oid": "62bb1e1841574dfc8ce787ad"
+  },
+  "createdAt": {
+    "$date": "2022-07-28T10:15:23.742Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-28T10:15:23.742Z"
+  },
+  "__v": 0
+}]
